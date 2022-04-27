@@ -6,7 +6,7 @@ import styles from './index.module.scss'
 
 const HomePage: FC = () => {
   return (
-    <div className={styles.page}>
+    <div className={styles.pageHome}>
       <Helmet>
         <title>Home | {Texts.APP_NAME}</title>
       </Helmet>
