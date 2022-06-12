@@ -1,1 +1,1 @@
-export const APP_NAME = 'vite-react-editor'
+export const APP_NAME = 'vite-react-ide'

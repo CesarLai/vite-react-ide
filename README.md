@@ -1,3 +1,3 @@
-# vite-react-editor
+# vite-react-ide
 
-A React editor app built with Vite.
+基于 React 实现，并由 Vite 编译的 Web IDE 项目。

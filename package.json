@@ -1,8 +1,8 @@
 {
-  "name": "vite-react-editor",
+  "name": "@cesarlai/vite-react-ide",
   "private": true,
   "version": "0.1.0",
-  "description": "A React editor app built with Vite.",
+  "description": "基于 React 实现，并由 Vite 编译的 Web IDE 项目。",
   "author": "Cesar Lai",
   "license": "MIT",
   "scripts": {
